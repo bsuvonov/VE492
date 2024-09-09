@@ -1,4 +1,4 @@
-### My project files for CS188 - Intro to AI by UC Berkeley
+### My project files for VE492 - Intro to AI
 
 ### Watch the demos:
 
