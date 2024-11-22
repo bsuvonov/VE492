@@ -1,6 +1,6 @@
-### My project files for VE492 - Intro to AI
+# My projects for VE492 - Intro to AI
 
-### Watch the demos:
+Watch the demos:
 
 ### Project 1 - Search Agents:
 <a href="https://youtu.be/vLaBWz4GWrw" target="_blank">
