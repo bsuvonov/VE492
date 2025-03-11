@@ -2,7 +2,7 @@
 
 Watch the demos:
 
-### Project 1 - Search Agents:
+### Performances of pacman search agents with various search algorithms:
 <a href="https://youtu.be/vLaBWz4GWrw" target="_blank">
  <img src="https://img.youtube.com/vi/vLaBWz4GWrw/default.jpg" alt="Watch the game demo" width="480" height="360" border="10" />
 </a>
